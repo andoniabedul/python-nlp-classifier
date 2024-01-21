@@ -1,3 +1,11 @@
+## Antes de empezar
+
+Descarga el dataset de BBC que contiene 2225 documentos categorizados por la BBC correspondientes al año 2004-2005 acá: http://mlg.ucd.ie/datasets/bbc.html
+
+Cambia la línea 14 por la ruta del directorio del dataset descargado. 
+
+## Explicación
+
 Categorizador de textos (NLP [Procesamiento de Lenguaje Natural]) para 5 categorías:
 
 * Business
